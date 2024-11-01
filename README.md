@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sin kipu
 - 👀 I’m interested in C++ and Python
-- 🌱 I’m currently learning C++ and GoLang
+- 🌱 I’m currently learning C++, GoLang and Python;
 - 📫 How to reach me : GitHub repository
 - 😄 Pronouns: He/Him
 
