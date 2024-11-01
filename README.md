@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sin kipu
+- 👋 Hi, I’m Sin Kipu
 - 👀 I’m interested in C++ and Python
 - 🌱 I’m currently learning C++, GoLang and Python;
 - 📫 How to reach me : GitHub repository
