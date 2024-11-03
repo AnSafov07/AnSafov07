@@ -6,10 +6,25 @@
 
 # Привет! 👋
 
-![Anime Girl](https://avatanplus.com/files/resources/original/58fdf80c1f55b15ba010ef60.png) <!-- Замените на ссылку на изображение аниме девочки -->
+## Добро пожаловать на мой профиль GitHub!
+
+### Посещения моего профиля
+
+![Anime Girl 1](https://example.com/anime-girl-1.png) ![Anime Girl 2](https://example.com/anime-girl-2.png) ![Anime Girl 3](https://example.com/anime-girl-3.png)
+
+| Девочка          | Количество посещений |
+|------------------|----------------------|
+| ![Anime Girl 1](https://example.com/anime-girl-1.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green) |
+| ![Anime Girl 2](https://example.com/anime-girl-2.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue) |
+| ![Anime Girl 3](https://example.com/anime-girl-3.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=red) |
 
 ## О себе
 Я разработчик, увлеченный программированием и аниме! 🎮💻
+
+## Связь со мной
+- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+
 
 ## Статистика посещений
 ![Посетители](https://komarev.com/ghpvc/?username=AnSafov07&color=green) <!-- Замените yourusername на ваш логин -->
