@@ -12,7 +12,7 @@
 Я разработчик, увлеченный программированием и аниме! 🎮💻
 
 ## Статистика посещений
-![Посетители](https://komarev.com/ghpvc/?username=yourusername&color=green) <!-- Замените yourusername на ваш логин -->
+![Посетители](https://komarev.com/ghpvc/?username=AnSafov07&color=green) <!-- Замените yourusername на ваш логин -->
 
 ## Моя активность на GitHub
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react) <!-- Замените yourusername на ваш логин -->
