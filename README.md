@@ -19,18 +19,14 @@
 | ![Anime Girl 3](https://example.com/anime-girl-3.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=red) |
 
 ## О себе
-Я разработчик, увлеченный программированием и аниме! 🎮💻
+Я студент, пытающийся выучить c++! 🎮💻
 
 ## Связь со мной
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub](https://github.com/AnSafov07)
 
 
 ## Статистика посещений
-![Посетители](https://komarev.com/ghpvc/?username=AnSafov07&color=green) <!-- Замените yourusername на ваш логин -->
+![Посетители](https://komarev.com/ghpvc/?username=AnSafov07&color=green)
 
 ## Моя активность на GitHub
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react) <!-- Замените yourusername на ваш логин -->
-
-<h3>🔍 Где меня искать</h3>
-- GitHub: https://github.com/AnSafov07
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnSafov07&theme=react)
