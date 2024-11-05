@@ -6,9 +6,8 @@
 
 
 
-| Какой то текст          | Какая то хрень |
 |------------------|----------------------|
-| ![Pipec 1](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) | ![Visitor Count](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) |
+| ![Pipec 1](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) | ([https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxA--zgLfApXqGTn3dOmvM7AzY80GUzt090gLAp05IL5AoUGjUc9RyXixzrxxGPrG3h3Y&usqp=CAU)) |
 | ![Anime Girl 2](https://media.tenor.com/vC0ko6PEAv0AAAAM/gey-dancing.gif) | ![Visitor Count](https://komarev.com/ghpvc/?username=AnSafov07&color=blue) |
 
 ## О себе
