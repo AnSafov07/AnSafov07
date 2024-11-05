@@ -5,7 +5,7 @@
 ### Посещения моего профиля
 
 
-
+| Какой то текст          | Какая то хрень |
 |------------------|----------------------|
 | ![Pipec 1](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) | ![Visitor Count](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) |
 | ![Anime Girl 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfeHg7RhAfmKRIl2mGR5xLqwnPnopJbOblfKFjENLU81LwcDBE3mnAR5Bq3PQ8H0ysBY&usqp=CAU) | ![Visitor Count](https://komarev.com/ghpvc/?username=AnSafov07&color=blue) |
