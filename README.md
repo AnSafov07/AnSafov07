@@ -14,7 +14,7 @@
 
 | Девочка          | Количество посещений |
 |------------------|----------------------|
-| ![Anime Girl 1](https://example.com/anime-girl-1.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green) |
+| ![Pipec 1](https://example.com/anime-girl-1.png) | ![Visitor Count](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) |
 | ![Anime Girl 2](https://example.com/anime-girl-2.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue) |
 | ![Anime Girl 3](https://example.com/anime-girl-3.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=red) |
 
