@@ -10,7 +10,6 @@
 |------------------|----------------------|
 | ![Pipec 1](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) | ![Visitor Count](https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif) |
 | ![Anime Girl 2](https://media.tenor.com/vC0ko6PEAv0AAAAM/gey-dancing.gif) | ![Visitor Count](https://komarev.com/ghpvc/?username=AnSafov07&color=blue) |
-| ![Anime Girl 3](https://example.com/anime-girl-3.png) | ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=red) |
 
 ## О себе
 - 👋 Hi, I’m Sin Kipu
