@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td><a href="https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif">Достижение 1</a></td>
+    <td><a href="[https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif](https://imgur.com/a/YHQbVJb)">Достижение 1</a></td>
     <td><a href="https://i.pinimg.com/originals/9e/7e/6d/9e7e6d9cbfb94fdf0efce2d1d3d06035.gif">Достижение 2</a></td>
   </tr>
   <tr>
