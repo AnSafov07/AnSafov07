@@ -2,6 +2,19 @@
 
 ## Добро пожаловать на мой профиль GitHub!
 
+## Таблица достижений в жизни
+
+<table>
+  <tr>
+    <td><a href="https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif">Достижение 1</a></td>
+    <td><a href="https://i.pinimg.com/originals/9e/7e/6d/9e7e6d9cbfb94fdf0efce2d1d3d06035.gif">Достижение 2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://i.gifer.com/7sQr.gif">Достижение 3</a></td>
+    <td><a href="https://media.tenor.com/fgrB3Ftxs2IAAAAM/speech-bubble-dota.gif">Достижение 4</a></td>
+  </tr>
+</table>
+
 ## О себе
 - 👋 Hi, I’m Sin Kipu
 - 👀 I’m interested in C++ and Python
@@ -9,7 +22,7 @@
 - 📫 How to reach me : GitHub repository
 - 😄 Pronouns: He/Him
 
-## Моя команда разрабочиков
+## Гифки
 
 <table>
   <tr>
