@@ -9,7 +9,7 @@
 - 📫 How to reach me : GitHub repository
 - 😄 Pronouns: He/Him
 
-## Гифки
+## Моя команда разрабочиков
 
 <table>
   <tr>
