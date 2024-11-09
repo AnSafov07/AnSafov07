@@ -40,6 +40,3 @@
 
 ## Статистика посещений
 ![Посетители](https://komarev.com/ghpvc/?username=AnSafov07&color=green)
-
-## Моя активность на GitHub
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnSafov07&theme=react)
