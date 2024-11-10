@@ -13,7 +13,7 @@
 ## Таблица достижений в жизни
 <table>
   <tr>
-    <td><a href="[https://i.gifer.com/origin/5b/5b09487ac662b10797f44f845dfe7a68_w200.gif](https://imgur.com/a/YHQbVJb)"><img></img></a></td>
+    <td><img src="https://i.imgur.com/4Mg31Yf.png" width="250" height="250"></td>
     <td><a href="https://i.pinimg.com/originals/9e/7e/6d/9e7e6d9cbfb94fdf0efce2d1d3d06035.gif">Достижение 2</a></td>
   </tr>
   <tr>
