@@ -25,14 +25,14 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 ## 📂 My Projects
 | Project | Description |
 |--------|----------|
-| [SCP SL Plugins]([https://github.com/AnSafov07?tab=repositories&q=Exiled](https://github.com/AnSafov07/ProdamGarage_SCP)) | Plugins for SCP: Secret Laboratory using Exiled C# API |
-| [Desktop Apps]([https://github.com/AnSafov07?tab=repositories&q=Desktop](https://github.com/AnSafov07/MikuLauncher)) | Desktop applications built with C# and Python |
-| [Utilities & Scripts]([https://github.com/AnSafov07?tab=repositories&q=Python](https://github.com/AnSafov07/wh40k_script)) | Automation scripts and helper tools |
+| [SCP SL Plugins](https://github.com/Kapusta3/ProdamGarage_SCP) | Plugins for SCP: Secret Laboratory|
+| [Desktop Apps](https://github.com/Kapusta3/MikuLauncher)) | Desktop applications  |
+| [Utilities & Scripts](https://github.com/Kapusta3/wh40k_script)) | Automation scripts and helper tools |
 
 ---
 
 ## 🌐 Contact Me
-- [GitHub](https://github.com/AnSafov07)  
+- [GitHub](https://github.com/Kapusta3)  
 - [Steam](https://steamcommunity.com/profiles/76561199132431203/)  
 - [Discord](https://discord.com/users/978033922183135333)
 
@@ -45,7 +45,7 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnSafov07&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=AnSafov07&show_icons=true&theme=tokyonight&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kapusta3&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
