@@ -53,10 +53,10 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 <table>
   <tr>
     <td><img src="https://i.imgur.com/4Mg31Yf.png" width="250" height="250" alt="Achievement 1"></td>
-    <td><img src="https://i.pinimg.com/originals/9e/7e/6d/9e7e6d9cbfb94fdf0efce2d1d3d06035.gif" width="250" height="250" alt="Achievement 1">Achievement 2></td>
+    <td><img src="https://i.pinimg.com/1200x/40/e8/d0/40e8d024b2e12dafb224bc909664af54.jpg" width="250" height="250" alt="Achievement 2">></td>
   </tr>
   <tr>
-    <td><a href="https://i.gifer.com/7sQr.gif">Achievement 3</a></td>
+    <td><img src="https://i.ytimg.com/vi/IgyrUpYK0WY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFIgWihlMA8=&rs=AOn4CLBiSaYdhElb6HAbiGLODOmFKflHkA" width="250" height="250" alt="Achievement 3"></td>
     <td><a href="https://media.tenor.com/fgrB3Ftxs2IAAAAM/speech-bubble-dota.gif">Achievement 4</a></td>
   </tr>
 </table>
