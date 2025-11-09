@@ -26,8 +26,8 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 | Project | Description |
 |--------|----------|
 | [SCP SL Plugins](https://github.com/Kapusta3/ProdamGarage_SCP) | Plugins for SCP: Secret Laboratory|
-| [Desktop Apps](https://github.com/Kapusta3/MikuLauncher)) | Desktop applications  |
-| [Utilities & Scripts](https://github.com/Kapusta3/wh40k_script)) | Automation scripts and helper tools |
+| [Desktop Apps](https://github.com/Kapusta3/MikuLauncher) | Desktop applications  |
+| [Utilities & Scripts](https://github.com/Kapusta3/wh40k_script) | Automation scripts and helper tools |
 
 ---
 
