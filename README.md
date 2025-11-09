@@ -53,7 +53,7 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 <table>
   <tr>
     <td><img src="https://i.imgur.com/4Mg31Yf.png" width="250" height="250" alt="Achievement 1"></td>
-    <td><a href="https://i.pinimg.com/originals/9e/7e/6d/9e7e6d9cbfb94fdf0efce2d1d3d06035.gif">Achievement 2</a></td>
+    <td><img src="https://i.pinimg.com/originals/9e/7e/6d/9e7e6d9cbfb94fdf0efce2d1d3d06035.gif" width="250" height="250" alt="Achievement 1">Achievement 2></td>
   </tr>
   <tr>
     <td><a href="https://i.gifer.com/7sQr.gif">Achievement 3</a></td>
