@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm AnSafov07
+# Hi there! 👋 
 
 I’m passionate about **developing plugins for SCP: Secret Laboratory** using **C# (Exiled)** and creating **desktop applications in C# and Python**.  
 I love learning new technologies, improving my projects, and sharing knowledge with the community.
