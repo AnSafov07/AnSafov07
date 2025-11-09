@@ -34,7 +34,7 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 ## 🌐 Contact Me
 - [GitHub](https://github.com/AnSafov07)  
 - [Steam](https://steamcommunity.com/profiles/76561199132431203/)  
-- Discord: `soul_g00dman`
+- [Discord](https://discord.com/users/978033922183135333)
 
 ---
 
