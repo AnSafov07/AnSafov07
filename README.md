@@ -58,4 +58,4 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 ---
 
 ## ⚡ Motto
-> "Code isn’t just lines, it’s magic that brings ideas to life."
+> "Приготовьте свой зад!"
